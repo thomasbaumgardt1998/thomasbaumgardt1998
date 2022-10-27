@@ -1,0 +1,4 @@
+- 👋 Oi, sou Thomas!
+- ♿ Sou Autista
+- 💻 Estou no 2° Semestre de Sistemas para Internet no IFRS
+- 💼 Procurando emprego/estágio na área de TI.
